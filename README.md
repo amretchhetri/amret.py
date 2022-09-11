@@ -1,0 +1,2 @@
+# amret.py
+NOTHING
